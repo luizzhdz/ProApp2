@@ -1,0 +1,14 @@
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\bin\Debug\Proyecto_Videos.exe.config
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.csproj.ResolveComReference.cache
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.csprojResolveAssemblyReference.cache
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.Form1.resources
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.Properties.Resources.resources
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.csproj.GenerateResource.Cache
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\bin\Debug\Proyecto_Videos.exe
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\bin\Debug\Proyecto_Videos.pdb
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.exe
+C:\Users\LuiZz\Desktop\Proyecto_Videos\Proyecto_Videos\obj\Debug\Proyecto_Videos.pdb
